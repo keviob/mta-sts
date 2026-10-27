@@ -1,4 +1,5 @@
 version: STSv1
-mode: testing
+mode: enforce
 mx: equilogic.mail.protection.outlook.com
+mx: 51.143.163.62
 max_age: 86400
