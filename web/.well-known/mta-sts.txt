@@ -1,4 +1,4 @@
 version: STSv1
 mode: enforce
-mx: equilogic.mail.protection.outlook.com
+mx: equilogic-co-uk.mail.protection.outlook.com
 max_age: 86400
